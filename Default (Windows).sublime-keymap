@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+alt+["], "command": "encode" },
+  { "keys": ["ctrl+alt+]"], "command": "decode" }
+]

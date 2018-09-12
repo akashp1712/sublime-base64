@@ -5,7 +5,7 @@ Select text and encode to Base64.
 It encodes/decodes Base64 of any text you select in sublime text editor.
 
 ### How to install this project? (Windows)
-1. Create new directory (i.e, Base64ED) in **C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages\Base64ED**
+1. Create new directory (i.e, Base64ED) in **C:\Users\\\<username>\AppData\Roaming\Sublime Text 3\Packages\Base64ED**
 2. Put the files in that directory.
 3. re-start sublime text editor.
 
